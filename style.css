@@ -1,13 +1,13 @@
 li {
-  display: inline-block;
-  padding: 10px;
-  text-decoration: none;
+  display: block;
   text-align: center;
-  margin: 10px;
+  padding: 16px;
+  text-decoration: none;
 }
 
 ul {
   list-style-type: none;
-  padding: 10px;
-  margin: 10px;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
 }
