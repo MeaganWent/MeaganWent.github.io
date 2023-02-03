@@ -5,6 +5,7 @@ li {
 }
 
 ul {
+  display: inline;
   list-style-type: none;
   padding: 0px;
 }
