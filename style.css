@@ -4,12 +4,11 @@ li {
   text-decoration: none;
   text-align: center;
   margin: 10px;
-  width:auto;
+  width: 70px;
 }
 
 ul {
   list-style-type: none;
   padding: 10px;
   margin: 10px;
-  width:auto;
 }
