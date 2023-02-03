@@ -1,9 +1,9 @@
 li {
   display: inline-block;
-  padding: 50px 50px;
+  padding: 100px 40px;
   text-decoration: none;
   text-align: center;
-  margin: 21px 646px 21px 646px;
+  margin: 21px auto;
 }
 
 ul {
