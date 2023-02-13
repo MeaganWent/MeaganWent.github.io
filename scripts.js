@@ -1,10 +1,9 @@
-var i = 0; 			// Start Point
-var images = [];	// Images Array
-var time = 3000;	// Time Between Switch
-	 
+
+	var i = 0, 			// Start Point
+	var images = ["DSC_0014_new.jpg", "DSC_0020_new.jpg"],	// Images Array
+	var time = 3000,	// Time Between Switch
+
 // Image List
-images[0] = "DSC_0014_new.jpg";
-images[1] = "DSC_0020_new.jpg";
 
 // Change Image
 function changeImg(){
