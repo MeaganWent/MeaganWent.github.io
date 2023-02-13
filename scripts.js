@@ -3,7 +3,7 @@ var images = [];	// Images Array
 var time = 3000;	// Time Between Switch
 	 
 // Image List
-images[0] = "WHMD-102.jpg";
+images[0] = "DSC_0014_new.jpg";
 images[1] = "WHMD-47.jpg";
 
 // Change Image
