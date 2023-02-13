@@ -10,7 +10,6 @@ function imageAlt(slideshow){
 	if(i < images.length - 1){
 	  i++; 
 	} else { 
-		// Reset Back To O
 		i = 0;
 	}
 
