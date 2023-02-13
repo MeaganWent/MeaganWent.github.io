@@ -1,7 +1,7 @@
 
-var i = 0, 	
-var images = ["DSC_0014_new.jpg", "DSC_0020_new.jpg"],	
-var time = 3000,
+var i = 0; 	
+var images = ["DSC_0014_new.jpg", "DSC_0020_new.jpg"];	
+var time = 3000;
 		
 function imageAlt{
 	document.slide.src = images[i];
