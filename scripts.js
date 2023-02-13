@@ -4,7 +4,7 @@ var time = 3000;	// Time Between Switch
 	 
 // Image List
 images[0] = "DSC_0014_new.jpg";
-images[1] = "WHMD-47.jpg";
+images[1] = "DSC_0020_new.jpg";
 
 // Change Image
 function changeImg(){
