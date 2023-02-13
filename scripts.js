@@ -3,7 +3,7 @@ var images = [];	// Images Array
 var time = 3000;	// Time Between Switch
 	 
 // Image List
-images[0] = "http://lorempixel.com/400/200/animals";
+images[0] = "WHMD-102.jpg";
 images[1] = "WHMD-47.jpg";
 
 // Change Image
